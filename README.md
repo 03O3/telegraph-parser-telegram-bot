@@ -25,6 +25,8 @@
 
 ## Запуск
 
+### Перед запуском необходимо добавить токен от телеграм бота в config.py
+
 `python main.py` (Windows)
 
 `python3 main.py` (UNIX based)
